@@ -12,4 +12,3 @@ name_hash.each do |key,value|
   end
     smallest_key
 end
-end
